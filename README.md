@@ -1,4 +1,4 @@
-![views](https://img.shields.io/github/downloads/<username>/<repository>/<branch>/<file>.<ext>)
+![](https://komarev.com/ghpvc/?username=HEMASRI-NAKIRIKANTI)
 
 <h1 align="center">Hi 👋, I'm Hema Sri Nakirikanti</h1>
 <h3 align="center">A passionate Data Scientist</h3>
