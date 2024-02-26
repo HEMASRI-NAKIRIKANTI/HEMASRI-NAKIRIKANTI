@@ -7,8 +7,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hemasri-nakirikanti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hemasri-nakirikanti/" height="30" width="40" /></a>
 </p>
-
-TECHNICAL SKILLS
+<h3 align="center">TECHNICAL SKILLS</h3>
 Languages: Java, Python, C#, C, Java Script, R
 Frameworks: Django, ASP, ASP.NET MVC, Flask
 Databases: MySQL, MS SQL Server, MongoDB
