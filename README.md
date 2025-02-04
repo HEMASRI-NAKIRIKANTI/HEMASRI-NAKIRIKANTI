@@ -12,12 +12,12 @@
 
 <h3 align="center">TECHNICAL SKILLS</h3>
 <ul>
-    <li>**Languages**: Java, Python, C#, C, JavaScript, R, Matlab</li>
-    <li>**Frameworks & Libraries**: Django, Flask, FastAPI, Hugging Face Transformers, LangChain, PyTorch, Keras, TensorFlow, Sci-kit learn, Spacy, NLTK</li>
-    <li>**Data Science & Analysis**: Numpy, Pandas, SciPy, Power BI, Matplotlib, Seaborn, OpenCV, Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA)</li>
-    <li>**AI & Machine Learning**: Machine Learning, Deep Learning, Reinforcement Learning, Natural Language Processing (NLP), Generative AI, Large Language Models (LLMs), Computer Vision, Data Mining, Model Optimization</li>
-    <li>**Cloud Platforms**: AWS (EC2, Lambda, SageMaker, S3, Glue, Bedrock), Azure, GCP, Heroku, Netlify</li>
-    <li>**MLOps Tools**: MLflow, DVC, Docker, Kubernetes, Apache Airflow, AWS CloudWatch, CI/CD Pipelines</li>
-    <li>**Databases**: MySQL, MS SQL Server, MongoDB, PostgreSQL, AWS RDS, Redshift</li>
-    <li>**Development & Deployment**: REST APIs (FastAPI, Django Rest Framework), Git, GitHub, CI/CD, Docker, Agile, JIRA, Jira</li>
+    <li><strong>Languages</strong>: Java, Python, C#, C, JavaScript, R, Matlab</li>
+    <li><strong>Frameworks & Libraries</strong>: Django, Flask, FastAPI, Hugging Face Transformers, LangChain, PyTorch, Keras, TensorFlow, Sci-kit learn, Spacy, NLTK</li>
+    <li><strong>Data Science & Analysis</strong>: Numpy, Pandas, SciPy, Power BI, Matplotlib, Seaborn, OpenCV, Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA)</li>
+    <li><strong>AI & Machine Learning</strong>: Machine Learning, Deep Learning, Reinforcement Learning, Natural Language Processing (NLP), Generative AI, Large Language Models (LLMs), Computer Vision, Data Mining, Model Optimization</li>
+    <li><strong>Cloud Platforms</strong>: AWS (EC2, Lambda, SageMaker, S3, Glue, Bedrock), Azure, GCP, Heroku, Netlify</li>
+    <li><strong>MLOps Tools</strong>: MLflow, DVC, Docker, Kubernetes, Apache Airflow, AWS CloudWatch, CI/CD Pipelines</li>
+    <li><strong>Databases</strong>: MySQL, MS SQL Server, MongoDB, PostgreSQL, AWS RDS, Redshift</li>
+    <li><strong>Development & Deployment</strong>: REST APIs (FastAPI, Django Rest Framework), Git, GitHub, CI/CD, Docker, Agile, JIRA, Jira</li>
 </ul>
